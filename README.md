@@ -15,7 +15,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-1/509673295348629525.png )
+![Discord](https://discord.c99.nl/widget/theme-3/509673295348629525.png)
 
 Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
